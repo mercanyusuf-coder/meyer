@@ -1,4 +1,3 @@
-<script>
 			(function() {
 				const musicEl = document.getElementById('bg-music');
 				const musicIframe = document.getElementById('music-iframe');
@@ -315,4 +314,3 @@
 					}
 				}, 100);
 			})();
-		</script>
